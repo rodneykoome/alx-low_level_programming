@@ -1,5 +1,4 @@
 # include "main.h"
-
 /**
  *main - print out main car by char.
  *Description: uses the main header file
